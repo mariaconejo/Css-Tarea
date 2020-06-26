@@ -42,8 +42,18 @@ p {
 
 /* Ejemplo 3 */
 
-em {
-	color: tomato;
+/* em {
+    color: tomato;
+} */
+
+/* Selector Decendiente */
+
+p span  { 
+    color:greenyellow; 
+} 
+
+h2 span { 
+    color: violet; 
 } 
 
 
