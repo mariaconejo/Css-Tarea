@@ -71,12 +71,18 @@ p {
 
 /* Selector Multiple, combinacion */
 
-h1, h2, #parrafo, .destacado, p {
+/* h1, h2, #parrafo, .destacado, p {
     color: slategrey;
     text-align: center;
     font-size: 30px;
+} */
+
+/* Selector Especifico */
+
+p.destacado {
+    color: rgb(23, 185, 226);
 }
 
-
+ 
 
 
