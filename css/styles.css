@@ -60,13 +60,23 @@ p {
 
 /* .destacado { 
     color:fuchsia; 
-} *7
+} */
 
 /* Selector id */
 
-#parrafo {
+/* #parrafo {
     font-size: 20px;
     color: brown;
-} 
+} */
+
+/* Selector Multiple, combinacion */
+
+h1, h2, #parrafo, .destacado, p {
+    color: slategrey;
+    text-align: center;
+    font-size: 30px;
+}
+
+
 
 
