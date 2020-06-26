@@ -46,15 +46,21 @@ p {
     color: tomato;
 } */
 
-/* Selector Decendiente */
+/* Selector Descendiente */
 
-p span  { 
+/* p span  { 
     color:greenyellow; 
-} 
+} */
 
-h2 span { 
+/* h2 span { 
     color: violet; 
-} 
+} */
+
+/* Selector Clase */
+
+.destacado { 
+    color:fuchsia; 
+}
 
 
 
